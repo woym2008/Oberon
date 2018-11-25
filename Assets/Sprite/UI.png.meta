@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: d98bf7c06cd50e043bb79f7b1876949d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Base-projectA
+    21300002: Glass
+    21300004: Base-ProjectB
+    21300006: b
+    21300008: g
+    21300010: y
+    21300012: glow-blue
+    21300014: glow-green
+    21300016: glow-yellow
+    21300018: w-b
+    21300020: w-g
+    21300022: w-y
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Base-projectA
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 12
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Glass
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 20
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Base-ProjectB
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: y
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glow-blue
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 14
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glow-green
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 15
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glow-yellow
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 15
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w-b
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 21
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w-g
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 21
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w-y
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 21
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

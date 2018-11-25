@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 96d3e95835bde634c860795caec7955d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: y1
+    21300002: y2
+    21300004: y3
+    21300006: b1
+    21300008: g1
+    21300010: b2
+    21300012: g2
+    21300014: b3
+    21300016: g3
+    21300018: g4
+    21300020: g5
+    21300022: boombang_0
+    21300024: y5
+    21300026: y6
+    21300028: b4
+    21300030: b5
+    21300032: b6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: y1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: y2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 130
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: y3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 79
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 77
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 18
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 13
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boombang_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 126
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: y5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 125
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: y6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 115
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 75
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 76
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 63
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

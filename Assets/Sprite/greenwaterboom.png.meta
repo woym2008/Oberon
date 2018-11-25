@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 4a332c769738ab9458eba3599fdc9d89
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: greenwaterboom_0
+    21300002: greenwaterboom_1
+    21300004: greenwaterboom_2
+    21300006: greenwaterboom_3
+    21300008: greenwaterboom_4
+    21300010: greenwaterboom_5
+    21300012: greenwaterboom_6
+    21300014: greenwaterboom_7
+    21300016: greenwaterboom_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: greenwaterboom_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 29
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenwaterboom_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 29
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenwaterboom_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 26
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenwaterboom_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 23
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenwaterboom_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 16
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenwaterboom_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 13
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenwaterboom_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 13
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenwaterboom_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 10
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenwaterboom_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

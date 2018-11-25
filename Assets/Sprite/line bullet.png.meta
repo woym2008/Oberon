@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: fa5c6dbf5c7f3bd46b171b6284c4c5ed
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: line bullet_0
+    21300002: lb1
+    21300004: lg1
+    21300006: lb2
+    21300008: lg2
+    21300010: lb3
+    21300012: lg3
+    21300014: line bullet_3
+    21300016: line bullet_4
+    21300018: lb5
+    21300020: lg4
+    21300022: lg5
+    21300024: line bullet_1
+    21300026: line bullet_2
+    21300028: lb4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: line bullet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 60
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lb1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 59
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lg1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 59
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lb2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lg2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 45
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lb3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lg3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: line bullet_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 20
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: line bullet_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lb5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lg4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lg5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 6
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: line bullet_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: line bullet_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 32
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lb4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 18
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
