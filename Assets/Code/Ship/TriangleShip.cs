@@ -616,7 +616,7 @@ public class TriangleShip : MonoBehaviour {
 	{
 		CloseAllWeapon ();
 		CloseAllShield ();
-
+        
 		MusicManager.GetInstance ().BGMCtrl.StopBGM ();
 		MusicManager.GetInstance ().BGMCtrl.PlayBGM ("StatgeEnd");
 
