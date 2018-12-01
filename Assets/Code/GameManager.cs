@@ -302,8 +302,10 @@ public class GameManager
 
 	public void StartGame()
 	{
-		GST = GameST.GAMEST_READY;
-	}
+        GameLevelManager.getInstance().StartBegin();
+
+        GST = GameST.GAMEST_READY;        
+    }
 	//------------------------------
 	public void ClearShipEnergy()
 	{

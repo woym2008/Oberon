@@ -9,7 +9,7 @@ public class GameLevelManager
     //-------------------------------------------------
     private int m_CurLevel;
 
-    private string m_SceneNameBase = "BattleField_";
+    private string m_SceneNameBase = "Scene/BattleScene/BattleField_";
     //-------------------------------------------------
     public static GameLevelManager getInstance()
     {

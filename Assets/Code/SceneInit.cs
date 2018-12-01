@@ -9,7 +9,12 @@ public class SceneInit : MonoBehaviour {
 
 	public int LevelNumber = 1;
 
-	void Start () 
+    private void Awake()
+    {
+        
+    }
+
+    void Start () 
 	{
 		Object loadMonMgr = Resources.Load ("Prefab/MonsterManager/" + "MonsterManager_" + LevelNumber);
 		if(loadMonMgr != null)
@@ -38,7 +43,7 @@ public class SceneInit : MonoBehaviour {
 		//
 
 
-		GameManager.getInstance ().StartGame ();
+		
 	}
 	
 	// Update is called once per frame
