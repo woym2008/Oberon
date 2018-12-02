@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class Boss_1_Logic : MonoBehaviour {
+public class Boss_1_Logic : BossBase {
 
 	public Boss_1_Head Head;
 	public Boss_Foot[]	Feet;
@@ -16,12 +16,12 @@ public class Boss_1_Logic : MonoBehaviour {
 	public int HP = 75000;
 	protected Vector2 Poll;
 	// Use this for initialization
-	void Awake()
+    public override void OnBossCreate()
 	{
 		ThinkQueue.Enqueue(0);
 	}
 
-	void Start () {
+    public override void OnBossShow () {
 
 		ThinkState = active;
 	

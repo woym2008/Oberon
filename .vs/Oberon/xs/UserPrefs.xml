@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{1CE7DB15-0665-3705-4186-E7FB2A05CC3F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/Boss/NewMonoBehaviour.cs">
+    <Files>
+      <File FileName="Assets/Code/SceneInit.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Boss/Boss2/Boss2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/GameManager.cs" Line="297" Column="10" />
+      <File FileName="Assets/Code/Level/GameLevelManager.cs" Line="29" Column="17" />
+      <File FileName="Assets/Code/GameInit.cs" Line="9" Column="35" />
+      <File FileName="Assets/Code/Scene/Vertical/VerticalScene.cs" Line="4" Column="27" />
+      <File FileName="Assets/Code/Scene/SceneTailor.cs" Line="52" Column="6" />
+      <File FileName="Assets/Code/Scene/ScenePathMover.cs" Line="138" Column="18" />
+      <File FileName="Assets/Code/Ship/TriangleShip.cs" Line="672" Column="48" />
+      <File FileName="Assets/Code/Boss/Boss1/BossNest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Scene/FinalPosFinder.cs" Line="30" Column="22" />
+      <File FileName="Assets/Code/Ship/PlayerManager.cs" Line="139" Column="20" />
+      <File FileName="Assets/Code/Enemy/MonsterThink_Egg.cs" Line="73" Column="56" />
+      <File FileName="Assets/Code/Enemy/MonsterThink_Turn.cs" Line="119" Column="52" />
+      <File FileName="Assets/Code/Scene/SlowMoveLeft.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Scene/ShipBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Scene/FinalArea.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Scene/MonsterDieFrame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Scene/DynamicBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Boss/Boss1/Boss_1_Head.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Boss/Boss1/Drive.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Boss/Boss1/Boss_WormSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Boss/Boss1/Boss_Foot.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Boss/Boss1/Boss_Worm.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Boss/Boss1/Boss_1_Logic.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Boss/NewMonoBehaviour.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

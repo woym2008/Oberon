@@ -28,6 +28,8 @@ public class FinalPosFinder : MonoBehaviour {
 			if(FArea != null)
 			{
 				m_ScenePathMover.ArrivalFinalArea();
+
+                GameManager.getInstance().GST = GameST.GAMEST_BOSSREADY;
 			}
 		}
 	}

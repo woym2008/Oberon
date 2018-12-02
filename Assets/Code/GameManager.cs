@@ -8,6 +8,8 @@ public enum GameST
 	GAMEST_BEGIN = 0,
 	GAMEST_READY,
 	GAMEST_RUNNING,
+    GAMEST_BOSSREADY,
+    GAMEST_BOSSFIGHT,
 	GAMEST_READYOVER,
 	GAMEST_OVER,
 	GAMEST_PAUSE,
@@ -82,6 +84,16 @@ public class GameManager
 				postGameRunning();
 			}
 				break;
+                case GameST.GAMEST_BOSSREADY:
+                    {
+                        postGameBossReady();
+                    }
+                    break;
+                case GameST.GAMEST_BOSSFIGHT:
+                    {
+                        postGameBossFight();
+                    }
+                    break;
 			case GameST.GAMEST_READYOVER:
 			{
 				postGameReadyOver();
@@ -113,6 +125,16 @@ public class GameManager
 				preGameRunning();
 			}
 				break;
+            case GameST.GAMEST_BOSSFIGHT:
+            {
+                preGameBossFight();
+            }
+                    break;
+                case GameST.GAMEST_BOSSREADY:
+                    {
+                        preGameBossReady();
+                    }
+                    break;
 			case GameST.GAMEST_READYOVER:
 			{
 				preGameReadyOver();
@@ -147,6 +169,16 @@ public class GameManager
 			updateGameRunning();
 		}
 			break;
+            case GameST.GAMEST_BOSSREADY:
+                {
+                    updateGameBossReady();
+                }
+                break;
+        case GameST.GAMEST_BOSSFIGHT:
+        {
+            updateGameBossFight();
+        }
+        break;
 		case GameST.GAMEST_READYOVER:
 		{
 			updateGameReadyOver();
@@ -175,6 +207,16 @@ public class GameManager
 		//RandomShipNeedsEnergy();
 
 	}
+
+    void preGameBossReady()
+    {
+        ;
+    }
+
+    void preGameBossFight()
+    {
+        ;
+    }
 
 	void preGameReadyOver()
 	{
@@ -242,6 +284,19 @@ public class GameManager
 		}
 	}
 
+    void updateGameBossReady()
+    {
+        //if(PlayerManager.getInstance().GetPlayer().IsReadyedFightBoss())
+        {
+            GST = GameST.GAMEST_BOSSFIGHT;
+        }
+    }
+
+    void updateGameBossFight()
+    {
+        ;
+    }
+
 	void updateGameReadyOver()
 	{
 		if(m_currentReadyOverTime > 0.0f)
@@ -274,6 +329,16 @@ public class GameManager
 	//------------------------------
 	void postGameRunning()
 	{}
+
+    void postGameBossReady()
+    {
+        ;
+    }
+
+    void postGameBossFight()
+    {
+        ;
+    }
 	
 	void postGameReadyOver()
 	{
@@ -336,7 +401,7 @@ public class GameManager
 		GST = GameST.GAMEST_READY;
 
         //Application.LoadLevel ("BattleField");
-        GameLevelManager.getInstance().StartBegin();
+        GameLevelManager.getInstance().RestLevel();
 
 
 		/*
